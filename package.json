@@ -1,0 +1,17 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "adm-zip": "^0.5.2",
+    "fs-extra": "^9.1.0",
+    "gulp": "^4.0.2",
+    "lodash.template": "^4.5.0"
+  }
+}

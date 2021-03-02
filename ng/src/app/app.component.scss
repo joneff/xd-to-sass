@@ -1,0 +1,11 @@
+.d-grid {
+  display: grid;
+}
+
+.grid-cols-6 {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.gap {
+  gap: 10px;
+}

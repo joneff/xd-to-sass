@@ -1,0 +1,194 @@
+{
+    "version": "1.5.0",
+    "children": [],
+    "resources": {
+        "meta": {
+            "ux": {
+                "colorSwatches": [{
+                    "mode": "RGB",
+                    "value": {
+                        "r": 112,
+                        "g": 112,
+                        "b": 112
+                    }
+                }, {
+                    "mode": "RGB",
+                    "value": {
+                        "r": 59,
+                        "g": 130,
+                        "b": 246
+                    }
+                }],
+                "documentLibrary": {
+                    "version": 4,
+                    "isStickerSheet": false,
+                    "hashedMetadata": {
+                        "publishedDocLibId": null
+                    },
+                    "elements": [{
+                        "id": "53fb7908-9d64-4063-b608-226f09a8bac4",
+                        "type": "application/vnd.adobe.element.color+dcx",
+                        "name": "primary",
+                        "created": 1613501659554,
+                        "modified": 1613501816800,
+                        "displayName": null,
+                        "index": 0,
+                        "representations": [{
+                            "id": "910c1a12-13b1-493a-99fc-ccdf8018d7f8",
+                            "type": "application/vnd.adobe.xdcolor+json",
+                            "relationship": "primary",
+                            "content": {
+                                "mode": "RGB",
+                                "value": {
+                                    "r": 236,
+                                    "g": 72,
+                                    "b": 153
+                                }
+                            }
+                        }],
+                        "updateElement": 0,
+                        "assetGroupData": {
+                            "groupColors": "ahn"
+                        }
+                    }, {
+                        "id": "7a892758-df8e-4a66-b27f-159f275e7232",
+                        "type": "application/vnd.adobe.element.color+dcx",
+                        "name": "secondary",
+                        "created": 1613501696162,
+                        "modified": 1613501718955,
+                        "displayName": null,
+                        "index": 1,
+                        "representations": [{
+                            "id": "fd359490-db8a-4483-9f7a-5dfb8d280bea",
+                            "type": "application/vnd.adobe.xdcolor+json",
+                            "relationship": "primary",
+                            "content": {
+                                "mode": "RGB",
+                                "value": {
+                                    "r": 112,
+                                    "g": 112,
+                                    "b": 112
+                                }
+                            }
+                        }],
+                        "updateElement": 0,
+                        "assetGroupData": {
+                            "groupColors": "akn"
+                        }
+                    }, {
+                        "id": "17dcc8d5-b21a-4fb7-b45f-1c2441d7898d",
+                        "type": "application/vnd.adobe.element.color+dcx",
+                        "name": "info",
+                        "created": 1613501840842,
+                        "modified": 1613501844523,
+                        "displayName": null,
+                        "index": 2,
+                        "representations": [{
+                            "id": "91ee41b9-66ed-411f-98d2-e8fba4e2fb38",
+                            "type": "application/vnd.adobe.xdcolor+json",
+                            "relationship": "primary",
+                            "content": {
+                                "mode": "RGB",
+                                "value": {
+                                    "r": 59,
+                                    "g": 130,
+                                    "b": 246
+                                }
+                            }
+                        }],
+                        "updateElement": 0,
+                        "assetGroupData": {
+                            "groupColors": "amn"
+                        }
+                    }, {
+                        "id": "a373a499-42a4-4c38-86cb-0cbae50063fb",
+                        "type": "application/vnd.adobe.element.color+dcx",
+                        "name": "warning",
+                        "created": 1613501888381,
+                        "modified": 1613501892440,
+                        "displayName": null,
+                        "index": 3,
+                        "representations": [{
+                            "id": "7dcfe1f4-5a8d-4cb1-88af-3674ae60182f",
+                            "type": "application/vnd.adobe.xdcolor+json",
+                            "relationship": "primary",
+                            "content": {
+                                "mode": "RGB",
+                                "value": {
+                                    "r": 245,
+                                    "g": 158,
+                                    "b": 11
+                                }
+                            }
+                        }],
+                        "updateElement": 0,
+                        "assetGroupData": {
+                            "groupColors": "an"
+                        }
+                    }, {
+                        "id": "56cebb31-1512-4512-a6e6-ce50c358b330",
+                        "type": "application/vnd.adobe.element.color+dcx",
+                        "name": "success",
+                        "created": 1613501915343,
+                        "modified": 1613501918702,
+                        "displayName": null,
+                        "index": 4,
+                        "representations": [{
+                            "id": "5e093b67-2a40-4e62-9425-3557481de9a6",
+                            "type": "application/vnd.adobe.xdcolor+json",
+                            "relationship": "primary",
+                            "content": {
+                                "mode": "RGB",
+                                "value": {
+                                    "r": 16,
+                                    "g": 185,
+                                    "b": 129
+                                }
+                            }
+                        }],
+                        "updateElement": 0,
+                        "assetGroupData": {
+                            "groupColors": "amun"
+                        }
+                    }, {
+                        "id": "d7d5a7fb-7c21-4dda-a9c7-9a2872307dc0",
+                        "type": "application/vnd.adobe.element.color+dcx",
+                        "name": "error",
+                        "created": 1613501959651,
+                        "modified": 1613501965155,
+                        "displayName": null,
+                        "index": 5,
+                        "representations": [{
+                            "id": "f1884770-a2c8-4be2-885c-5c1fdc80f9a2",
+                            "type": "application/vnd.adobe.xdcolor+json",
+                            "relationship": "primary",
+                            "content": {
+                                "mode": "RGB",
+                                "value": {
+                                    "r": 239,
+                                    "g": 68,
+                                    "b": 68
+                                }
+                            }
+                        }],
+                        "updateElement": 0,
+                        "assetGroupData": {
+                            "groupColors": "nn"
+                        }
+                    }]
+                },
+                "gridDefaults": {
+                    "defaultGrid": null,
+                    "layoutOverrides": null
+                },
+                "symbols": [],
+                "symbolsMetadata": {
+                    "usingNestedSymbolSyncing": true
+                }
+            }
+        },
+        "gradients": {},
+        "clipPaths": {}
+    },
+    "artboards": {}
+}
